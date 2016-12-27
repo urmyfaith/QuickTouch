@@ -447,12 +447,12 @@
 				TargetAttributes = {
 					3411353F1DD2CE5D00D98C94 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 446D3AAR7E;
+						DevelopmentTeam = HMPLSA9ZYN;
 						ProvisioningStyle = Automatic;
 					};
 					34B049C01DD0D89500998965 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = DK9MPZYTDE;
+						DevelopmentTeam = HMPLSA9ZYN;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -674,15 +674,15 @@
 			baseConfigurationReference = 17232945795D99972E314DA8 /* Pods-QuickTouchServer.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 446D3AAR7E;
+				DEVELOPMENT_TEAM = HMPLSA9ZYN;
 				GCC_ENABLE_BUILTIN_FUNCTIONS = NO;
 				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/QuickTouchServer/QuickTouchServer-prefix.pch";
 				INFOPLIST_FILE = QuickTouchServer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				PRODUCT_BUNDLE_IDENTIFIER = TsuiYuenHong.QuickTouchServer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.z2xy.QuickTouchServer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/**";
@@ -694,15 +694,15 @@
 			baseConfigurationReference = 108A3946979789A260262B51 /* Pods-QuickTouchServer.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 446D3AAR7E;
+				DEVELOPMENT_TEAM = HMPLSA9ZYN;
 				GCC_ENABLE_BUILTIN_FUNCTIONS = NO;
 				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/QuickTouchServer/QuickTouchServer-prefix.pch";
 				INFOPLIST_FILE = QuickTouchServer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				PRODUCT_BUNDLE_IDENTIFIER = TsuiYuenHong.QuickTouchServer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.z2xy.QuickTouchServer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/**";
@@ -804,11 +804,11 @@
 			baseConfigurationReference = 85DD7EAC6B03C7CF7E8BDF84 /* Pods-QuickTouchClient.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = DK9MPZYTDE;
+				DEVELOPMENT_TEAM = HMPLSA9ZYN;
 				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/QuickTouchClient/QuickTouchClient-prefix.pch";
 				INFOPLIST_FILE = QuickTouchClient/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = TsuiYuenHong.QuickTouchClient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.z2xy.QuickTouchClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/**";
 			};
@@ -819,11 +819,11 @@
 			baseConfigurationReference = EEC6579A36956BED82996FE1 /* Pods-QuickTouchClient.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = DK9MPZYTDE;
+				DEVELOPMENT_TEAM = HMPLSA9ZYN;
 				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/QuickTouchClient/QuickTouchClient-prefix.pch";
 				INFOPLIST_FILE = QuickTouchClient/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = TsuiYuenHong.QuickTouchClient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.z2xy.QuickTouchClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/**";
 			};
